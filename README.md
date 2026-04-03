@@ -3,6 +3,7 @@
 A web-based Spotify clone that allows users to play songs, control playback, and browse music.
 
 ## 🚀 Features
+
 - Play/Pause songs
 - Next/Previous track controls
 - Volume control
